@@ -1,26 +1,10 @@
-
-
-<!--
-**saykojoetrue/sackeykojoetrue** is a ✨ _special_ ✨ reposi
-
-
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
 <h1 align="center">Hi 👋, I'm Sackey Ezekiel Etrue</h1>
 
 <h3 align="center">A passionate programmer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sackeyetrue&label=Profile%20views&color=0e75b6&style=flat" alt="sackeyetrue" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=sackeyetrue&label=Profile%20views&color=0e75b6&style=flat" alt="sackeyetrue" /> </p>
 
-<p align="left"> <a href="https://twitter.com/sackeyetrue" target="blank"><img src="https://img.shields.io/twitter/follow/sackeyetrue?logo=twitter&style=for-the-badge" alt="sackeyetrue" /></a> </p>
+<p align="center"> <a href="https://instagram.com/sackeyetrue" target="blank"><img src="https://img.shields.io/twitter/follow/sackeyetrue?logo=twitter&style=for-the-badge" alt="sackeyetrue" /></a> </p>
 
 - 🌱 I’m currently learning **Vulkan**
 
