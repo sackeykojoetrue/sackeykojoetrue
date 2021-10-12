@@ -23,6 +23,9 @@
 <p align="left">
 
 
+<p align="center">
+<a href="https://www.paypal.me/sackeyetrue"><img src="https://img.shields.io/badge/support-PayPal-blue?logo=PayPal&style=flat-square&label=Donate" alt="sponsor github profile readme generator"/>
+</a>
 
 <a href="https://twitter.com/sackeyetrue" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sackeyetrue" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/sackeyetrue" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="sackeyetrue" height="30" width="40" /></a>
